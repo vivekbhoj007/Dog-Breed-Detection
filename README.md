@@ -1,0 +1,2 @@
+# Dog-Breed-Detection
+This repository contains Kaggle’s playground prediction competition — determining the breed of a dog in an image.You are provided with a training set and a test set of images of dogs. Each image has a filename that is its unique id. The dataset comprises 120 breeds of dogs. The goal of the competition is to create a classifier capable of determining a dog's breed from a photo.
